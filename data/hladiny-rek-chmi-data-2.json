@@ -1,0 +1,5087 @@
+[
+  {
+    "id": "307268",
+    "title": "Nekoř",
+    "subtitle": "Divoká Orlice",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0652352, 16.5406703",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307119",
+    "title": "Černý Kříž",
+    "subtitle": "Studená Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8632832, 13.8655215",
+    "category": "normální stav"
+  },
+  {
+    "id": "307137",
+    "title": "Benešov nad Ploučnicí",
+    "subtitle": "Ploučnice",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7394274, 14.3104149",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307186",
+    "title": "Varnsdorf",
+    "subtitle": "Mandava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9056752, 14.6283523",
+    "category": "normální stav"
+  },
+  {
+    "id": "306987",
+    "title": "Letovice",
+    "subtitle": "Svitava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5320475, 16.5805849",
+    "category": "sucho"
+  },
+  {
+    "id": "307179",
+    "title": "Vědlice",
+    "subtitle": "Úštěcký potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5266649, 14.3449046",
+    "category": "sucho"
+  },
+  {
+    "id": "307189",
+    "title": "Týniště nad Orlicí",
+    "subtitle": "Orlice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1485899, 16.067054",
+    "category": "sucho"
+  },
+  {
+    "id": "307232",
+    "title": "Krnov",
+    "subtitle": "Opava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0886547, 17.7083594",
+    "category": "sucho"
+  },
+  {
+    "id": "307246",
+    "title": "Husinec",
+    "subtitle": "Blanice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0399053, 13.9941538",
+    "category": "normální stav"
+  },
+  {
+    "id": "307293",
+    "title": "Kraslice",
+    "subtitle": "Svatava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3162848, 12.5185234",
+    "category": "sucho"
+  },
+  {
+    "id": "307300",
+    "title": "Louny",
+    "subtitle": "Ohře",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3576829, 13.8036048",
+    "category": "sucho"
+  },
+  {
+    "id": "307304",
+    "title": "Zákupy",
+    "subtitle": "Svitavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6865102, 14.6452501",
+    "category": "normální stav"
+  },
+  {
+    "id": "307231",
+    "title": "Beroun",
+    "subtitle": "Litavka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9520074, 14.0521044",
+    "category": "sucho"
+  },
+  {
+    "id": "307249",
+    "title": "Zadní Poříčí",
+    "subtitle": "Skalice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.5839809, 13.939061",
+    "category": "normální stav"
+  },
+  {
+    "id": "307258",
+    "title": "Kácov",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7853864, 15.024833",
+    "category": "sucho"
+  },
+  {
+    "id": "307267",
+    "title": "VD Hracholusky",
+    "subtitle": "Mže",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7890843, 13.1764887",
+    "category": "normální stav"
+  },
+  {
+    "id": "307364",
+    "title": "Slušovice",
+    "subtitle": "Dřevnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2529552, 17.8008651",
+    "category": "sucho"
+  },
+  {
+    "id": "307073",
+    "title": "Tajanov",
+    "subtitle": "Úhlava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.40332, 13.2627381",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505267",
+    "title": "Mikulovice",
+    "subtitle": "Bělá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "50.2905644, 17.2940624",
+    "category": "normální stav"
+  },
+  {
+    "id": "307008",
+    "title": "Koryčany pod přehradou",
+    "subtitle": "Kyjovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1167807, 17.1890348",
+    "category": "normální stav"
+  },
+  {
+    "id": "307038",
+    "title": "Zátoň",
+    "subtitle": "Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "48.7268289, 14.3367878",
+    "category": "sucho"
+  },
+  {
+    "id": "307056",
+    "title": "Rataje",
+    "subtitle": "Smutná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3501738, 14.4498112",
+    "category": "sucho"
+  },
+  {
+    "id": "2506445",
+    "title": "Kokory",
+    "subtitle": "Olešnice (Kokorka)",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4969239, 17.3748567",
+    "category": "sucho"
+  },
+  {
+    "id": "307306",
+    "title": "Český Jiřetín",
+    "subtitle": "Flájský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7074437, 13.5427591",
+    "category": "normální stav"
+  },
+  {
+    "id": "307317",
+    "title": "Valšov",
+    "subtitle": "Moravice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.923287, 17.4511867",
+    "category": "sucho"
+  },
+  {
+    "id": "307357",
+    "title": "Stražisko",
+    "subtitle": "Romže",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.53451, 16.9546075",
+    "category": "sucho"
+  },
+  {
+    "id": "307124",
+    "title": "Pilař",
+    "subtitle": "Lužnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9497297, 14.8805884",
+    "category": "sucho"
+  },
+  {
+    "id": "307178",
+    "title": "Velvary",
+    "subtitle": "Bakovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2837849, 14.2366135",
+    "category": "sucho"
+  },
+  {
+    "id": "307188",
+    "title": "Krnov",
+    "subtitle": "Opavice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1005009, 17.6822066",
+    "category": "normální stav"
+  },
+  {
+    "id": "307223",
+    "title": "Štěnovice",
+    "subtitle": "Úhlava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6768049, 13.4027498",
+    "category": "sucho"
+  },
+  {
+    "id": "307228",
+    "title": "Ústí nad Labem",
+    "subtitle": "Labe",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6539106, 14.042504",
+    "category": "sucho"
+  },
+  {
+    "id": "307238",
+    "title": "Hamr",
+    "subtitle": "Nežárka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1576752, 14.7589391",
+    "category": "sucho"
+  },
+  {
+    "id": "307243",
+    "title": "Kolinec",
+    "subtitle": "Ostružná",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "49.2956812, 13.4353576",
+    "category": "sucho"
+  },
+  {
+    "id": "307145",
+    "title": "Kelč",
+    "subtitle": "Juhyně",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4724677, 17.8281634",
+    "category": "sucho"
+  },
+  {
+    "id": "307348",
+    "title": "Ústí",
+    "subtitle": "Senice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3055993, 18.0024286",
+    "category": "sucho"
+  },
+  {
+    "id": "306992",
+    "title": "Batelov",
+    "subtitle": "Jihlava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3137753, 15.4063213",
+    "category": "sucho"
+  },
+  {
+    "id": "307011",
+    "title": "Přelouč",
+    "subtitle": "Labe",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0450832, 15.5718976",
+    "category": "sucho"
+  },
+  {
+    "id": "307044",
+    "title": "Horní Maršov",
+    "subtitle": "Úpa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6604699, 15.8204106",
+    "category": "normální stav"
+  },
+  {
+    "id": "307074",
+    "title": "Ždírec",
+    "subtitle": "Úslava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.552843, 13.5750189",
+    "category": "normální stav"
+  },
+  {
+    "id": "307210",
+    "title": "Nemošice",
+    "subtitle": "Chrudimka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0164822, 15.7899686",
+    "category": "sucho"
+  },
+  {
+    "id": "306976",
+    "title": "Trávní Dvůr",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.7908632, 16.4376431",
+    "category": "normální stav"
+  },
+  {
+    "id": "306990",
+    "title": "Brankovice",
+    "subtitle": "Litava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1535271, 17.1350805",
+    "category": "normální stav"
+  },
+  {
+    "id": "307005",
+    "title": "VD Nové Mlýny",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "48.8578055, 16.7241286",
+    "category": "normální stav"
+  },
+  {
+    "id": "307068",
+    "title": "Nespeky",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "49.8594915, 14.6499786",
+    "category": "sucho"
+  },
+  {
+    "id": "307076",
+    "title": "Kostelec nad Orlicí",
+    "subtitle": "Divoká Orlice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1204252, 16.1953339",
+    "category": "sucho"
+  },
+  {
+    "id": "307099",
+    "title": "Karlovice",
+    "subtitle": "Opava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "50.1079787, 17.4279318",
+    "category": "normální stav"
+  },
+  {
+    "id": "307103",
+    "title": "Morávka pod nádrží",
+    "subtitle": "Morávka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.586075, 18.5297058",
+    "category": "normální stav"
+  },
+  {
+    "id": "307118",
+    "title": "Bakov nad Jizerou",
+    "subtitle": "Jizera",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4836822, 14.927934",
+    "category": "normální stav"
+  },
+  {
+    "id": "307100",
+    "title": "Opava",
+    "subtitle": "Opava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9351432, 17.9226316",
+    "category": "normální stav"
+  },
+  {
+    "id": "307105",
+    "title": "Ostrava",
+    "subtitle": "Ostravice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8470547, 18.2935233",
+    "category": "sucho"
+  },
+  {
+    "id": "307110",
+    "title": "Raškov",
+    "subtitle": "Morava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0408892, 16.9114042",
+    "category": "sucho"
+  },
+  {
+    "id": "307122",
+    "title": "Borovany",
+    "subtitle": "Stropnice",
+    "status": "normální stav",
+    "time": "08.11.2024 14:00",
+    "coords": "48.8862482, 14.6449893",
+    "category": "normální stav"
+  },
+  {
+    "id": "307125",
+    "title": "Kamenice nad Lipou",
+    "subtitle": "Kamenice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.3024732, 15.080609",
+    "category": "normální stav"
+  },
+  {
+    "id": "307132",
+    "title": "Hrádek",
+    "subtitle": "Klabava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7142028, 13.6622784",
+    "category": "normální stav"
+  },
+  {
+    "id": "307366",
+    "title": "Zlín",
+    "subtitle": "Dřevnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2308418, 17.672386",
+    "category": "sucho"
+  },
+  {
+    "id": "307126",
+    "title": "Bechyně",
+    "subtitle": "Lužnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "49.288377, 14.4708574",
+    "category": "sucho"
+  },
+  {
+    "id": "307151",
+    "title": "Židlochovice",
+    "subtitle": "Svratka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0363107, 16.6162645",
+    "category": "normální stav"
+  },
+  {
+    "id": "307184",
+    "title": "Srbská Kamenice",
+    "subtitle": "Kamenice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8140165, 14.3514895",
+    "category": "sucho"
+  },
+  {
+    "id": "307219",
+    "title": "Oldřiš",
+    "subtitle": "Hamerský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.1511577, 15.1060906",
+    "category": "normální stav"
+  },
+  {
+    "id": "307225",
+    "title": "Praha - Chuchle",
+    "subtitle": "Vltava",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0274827, 14.3968736",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307239",
+    "title": "Klenovice",
+    "subtitle": "Lužnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.2809324, 14.7005788",
+    "category": "normální stav"
+  },
+  {
+    "id": "307244",
+    "title": "Sudslavice",
+    "subtitle": "Volyňka",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "49.0886748, 13.7943545",
+    "category": "sucho"
+  },
+  {
+    "id": "307265",
+    "title": "Stříbro",
+    "subtitle": "Úhlavka",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "49.737287, 12.9944652",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307273",
+    "title": "Slatina nad Zdobnicí",
+    "subtitle": "Zdobnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1363209, 16.3795104",
+    "category": "normální stav"
+  },
+  {
+    "id": "307297",
+    "title": "Karlovy Vary - Drahovice",
+    "subtitle": "Ohře",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2369357, 12.8814087",
+    "category": "sucho"
+  },
+  {
+    "id": "307147",
+    "title": "Spytihněv",
+    "subtitle": "Morava",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1331903, 17.5013105",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307316",
+    "title": "Svinov",
+    "subtitle": "Odra",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8197711, 18.2169637",
+    "category": "sucho"
+  },
+  {
+    "id": "307350",
+    "title": "Jarcová",
+    "subtitle": "Vsetínská Bečva",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4443545, 17.9701548",
+    "category": "sucho"
+  },
+  {
+    "id": "307355",
+    "title": "Cerekvice nad Loučnou",
+    "subtitle": "Loučná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9006478, 16.2123879",
+    "category": "sucho"
+  },
+  {
+    "id": "307370",
+    "title": "Hamry",
+    "subtitle": "Chrudimka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7382895, 15.9167583",
+    "category": "normální stav"
+  },
+  {
+    "id": "307176",
+    "title": "Hořovice",
+    "subtitle": "Červený potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8404158, 13.9027242",
+    "category": "sucho"
+  },
+  {
+    "id": "2586337",
+    "title": "Blanický mlýn",
+    "subtitle": "Blanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9571937, 13.9413963",
+    "category": "sucho"
+  },
+  {
+    "id": "307216",
+    "title": "Český Krumlov",
+    "subtitle": "Polečnice (Kájovský potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8131189, 14.3128186",
+    "category": "normální stav"
+  },
+  {
+    "id": "306981",
+    "title": "Svídnice",
+    "subtitle": "Chrudimka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.881738, 15.8101427",
+    "category": "sucho"
+  },
+  {
+    "id": "307157",
+    "title": "Nová Ves nad Lužnicí",
+    "subtitle": "Lužnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.8079204, 14.9386954",
+    "category": "normální stav"
+  },
+  {
+    "id": "307127",
+    "title": "Bohumilice",
+    "subtitle": "Spůlka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0996792, 13.802535",
+    "category": "normální stav"
+  },
+  {
+    "id": "307235",
+    "title": "Kazdovna",
+    "subtitle": "Lužnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9947776, 14.8421131",
+    "category": "sucho"
+  },
+  {
+    "id": "307081",
+    "title": "Mělník",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3522646, 14.4691632",
+    "category": "normální stav"
+  },
+  {
+    "id": "306985",
+    "title": "Rozhraní",
+    "subtitle": "Svitava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6003775, 16.5314771",
+    "category": "normální stav"
+  },
+  {
+    "id": "307000",
+    "title": "Oslavany",
+    "subtitle": "Oslava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.115976, 16.3437214",
+    "category": "sucho"
+  },
+  {
+    "id": "307049",
+    "title": "České Budějovice",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.9814063, 14.4623581",
+    "category": "normální stav"
+  },
+  {
+    "id": "307080",
+    "title": "Rychnov nad Kněžnou",
+    "subtitle": "Kněžná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1544066, 16.2757167",
+    "category": "normální stav"
+  },
+  {
+    "id": "307101",
+    "title": "Kružberk pod nádrží",
+    "subtitle": "Moravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8243816, 17.6667276",
+    "category": "normální stav"
+  },
+  {
+    "id": "307346",
+    "title": "Karolinka pod nádrží",
+    "subtitle": "Velká Stanovnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.350135, 18.2345178",
+    "category": "normální stav"
+  },
+  {
+    "id": "306991",
+    "title": "Rychmanov",
+    "subtitle": "Litava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1038599, 16.7631477",
+    "category": "normální stav"
+  },
+  {
+    "id": "306995",
+    "title": "Bransouze",
+    "subtitle": "Jihlava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3033623, 15.7530828",
+    "category": "normální stav"
+  },
+  {
+    "id": "306997",
+    "title": "Mohelno ",
+    "subtitle": "Jihlava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1030689, 16.1829193",
+    "category": "normální stav"
+  },
+  {
+    "id": "307010",
+    "title": "Úhřetice",
+    "subtitle": "Novohradka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9787018, 15.8736993",
+    "category": "sucho"
+  },
+  {
+    "id": "307027",
+    "title": "Dolní Štěpanice",
+    "subtitle": "Jizerka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6379785, 15.5171595",
+    "category": "normální stav"
+  },
+  {
+    "id": "307047",
+    "title": "Světlá nad Sázavou",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6647682, 15.4034122",
+    "category": "sucho"
+  },
+  {
+    "id": "307060",
+    "title": "Dolní Ostrovec",
+    "subtitle": "Lomnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4199588, 14.1192733",
+    "category": "normální stav"
+  },
+  {
+    "id": "307113",
+    "title": "Raabs an der Thaya",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 22:25",
+    "coords": "48.8484906, 15.4877451",
+    "category": "normální stav"
+  },
+  {
+    "id": "307120",
+    "title": "Chvalšiny",
+    "subtitle": "Třebovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.851415, 14.2079055",
+    "category": "normální stav"
+  },
+  {
+    "id": "307102",
+    "title": "Čeladná",
+    "subtitle": "Čeladenka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.5124806, 18.3372593",
+    "category": "normální stav"
+  },
+  {
+    "id": "307241",
+    "title": "Modrava",
+    "subtitle": "Vydra",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0255345, 13.4968053",
+    "category": "sucho"
+  },
+  {
+    "id": "307328",
+    "title": "Vidnava",
+    "subtitle": "Vidnavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3733533, 17.1824646",
+    "category": "normální stav"
+  },
+  {
+    "id": "307372",
+    "title": "Lanžhot",
+    "subtitle": "Morava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.6870094, 16.9885928",
+    "category": "sucho"
+  },
+  {
+    "id": "307171",
+    "title": "Trpísty",
+    "subtitle": "Úterský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8281745, 13.0637429",
+    "category": "sucho"
+  },
+  {
+    "id": "307134",
+    "title": "Citice",
+    "subtitle": "Ohře",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1726782, 12.6204475",
+    "category": "sucho"
+  },
+  {
+    "id": "307143",
+    "title": "Horní Lánov",
+    "subtitle": "Malé Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6325136, 15.6596209",
+    "category": "normální stav"
+  },
+  {
+    "id": "307303",
+    "title": "Stráž pod Ralskem",
+    "subtitle": "Ploučnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6899833, 14.7885827",
+    "category": "normální stav"
+  },
+  {
+    "id": "307318",
+    "title": "Branka",
+    "subtitle": "Moravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8936623, 17.8898482",
+    "category": "normální stav"
+  },
+  {
+    "id": "307353",
+    "title": "Hranice",
+    "subtitle": "Velička",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5499211, 17.733392",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505250",
+    "title": "VD Letovice",
+    "subtitle": "Křetínka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.553409, 16.5585716",
+    "category": "normální stav"
+  },
+  {
+    "id": "307283",
+    "title": "Jedlová v Orlických horách",
+    "subtitle": "Bělá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "50.2914046, 16.345085",
+    "category": "normální stav"
+  },
+  {
+    "id": "307362",
+    "title": "Chomýž",
+    "subtitle": "Rusava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3623991, 17.6513343",
+    "category": "normální stav"
+  },
+  {
+    "id": "307215",
+    "title": "Lenora",
+    "subtitle": "Teplá Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9278041, 13.7948561",
+    "category": "sucho"
+  },
+  {
+    "id": "307046",
+    "title": "Roudné",
+    "subtitle": "Malše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9351159, 14.4900104",
+    "category": "normální stav"
+  },
+  {
+    "id": "307339",
+    "title": "Mezihoří",
+    "subtitle": "Třebůvka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7051119, 16.7418723",
+    "category": "normální stav"
+  },
+  {
+    "id": "2506444",
+    "title": "Proseč nad Nisou",
+    "subtitle": "Lužická Nisa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7230827, 15.1301141",
+    "category": "normální stav"
+  },
+  {
+    "id": "307327",
+    "title": "Těrlicko pod nádrží",
+    "subtitle": "Stonávka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.7775817, 18.523367",
+    "category": "normální stav"
+  },
+  {
+    "id": "307358",
+    "title": "Polkovice",
+    "subtitle": "Romže",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3998721, 17.2536784",
+    "category": "normální stav"
+  },
+  {
+    "id": "307121",
+    "title": "Ličov",
+    "subtitle": "Černá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.7298623, 14.5719621",
+    "category": "normální stav"
+  },
+  {
+    "id": "307028",
+    "title": "Dolní Sytová",
+    "subtitle": "Jizera",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6244862, 15.4410908",
+    "category": "sucho"
+  },
+  {
+    "id": "307360",
+    "title": "Otaslavice",
+    "subtitle": "Brodečka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3874685, 17.0704498",
+    "category": "normální stav"
+  },
+  {
+    "id": "307301",
+    "title": "Bílina",
+    "subtitle": "Bílina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5539456, 13.7732667",
+    "category": "normální stav"
+  },
+  {
+    "id": "307204",
+    "title": "Borovnice",
+    "subtitle": "Svratka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6779914, 16.1910749",
+    "category": "normální stav"
+  },
+  {
+    "id": "20463360",
+    "title": "Obecnice",
+    "subtitle": "Obecnický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7175688, 13.9180201",
+    "category": "normální stav"
+  },
+  {
+    "id": "20594353",
+    "title": "Plzeň-Skvrňany",
+    "subtitle": "Vejprnický potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.74414, 13.3473468",
+    "category": "sucho"
+  },
+  {
+    "id": "20070415",
+    "title": "Lány - Městečko",
+    "subtitle": "Klíčava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0829515, 13.9023311",
+    "category": "sucho"
+  },
+  {
+    "id": "20096829",
+    "title": "Horní Stropnice",
+    "subtitle": "Stropnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.7622367, 14.7396024",
+    "category": "normální stav"
+  },
+  {
+    "id": "307291",
+    "title": "VD Skalka",
+    "subtitle": "Ohře",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0858248, 12.3850037",
+    "category": "sucho"
+  },
+  {
+    "id": "20214835",
+    "title": "Slaná",
+    "subtitle": "Oleška",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5886506, 15.3344837",
+    "category": "normální stav"
+  },
+  {
+    "id": "307230",
+    "title": "Písek",
+    "subtitle": "Otava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3165519, 14.1435306",
+    "category": "sucho"
+  },
+  {
+    "id": "307013",
+    "title": "Pařížov",
+    "subtitle": "Doubrava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8289664, 15.5678813",
+    "category": "normální stav"
+  },
+  {
+    "id": "307003",
+    "title": "Ivančice",
+    "subtitle": "Jihlava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0839594, 16.4116414",
+    "category": "sucho"
+  },
+  {
+    "id": "307254",
+    "title": "Krčín",
+    "subtitle": "Metuje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3516673, 16.1298784",
+    "category": "normální stav"
+  },
+  {
+    "id": "465818",
+    "title": "Odry náhon",
+    "subtitle": "náhon z Odry",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6640507, 17.8316081",
+    "category": "sucho"
+  },
+  {
+    "id": "2497645",
+    "title": "Liberec",
+    "subtitle": "Lužická Nisa",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7680781, 15.0519566",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "2504743",
+    "title": "Dolní Libchavy",
+    "subtitle": "Tichá Orlice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9885498, 16.3958951",
+    "category": "normální stav"
+  },
+  {
+    "id": "2504744",
+    "title": "Ústí nad Orlicí",
+    "subtitle": "Třebovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9537984, 16.4148261",
+    "category": "normální stav"
+  },
+  {
+    "id": "2504745",
+    "title": "Přemilov",
+    "subtitle": "Chrudimka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8041711, 15.6840832",
+    "category": "sucho"
+  },
+  {
+    "id": "307363",
+    "title": "Dašice",
+    "subtitle": "Loučná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.036831, 15.9066732",
+    "category": "normální stav"
+  },
+  {
+    "id": "307162",
+    "title": "Rejštejn",
+    "subtitle": "Otava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.139431, 13.5082979",
+    "category": "normální stav"
+  },
+  {
+    "id": "307001",
+    "title": "Příštpo",
+    "subtitle": "Rokytná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0704303, 15.938994",
+    "category": "normální stav"
+  },
+  {
+    "id": "307308",
+    "title": "Otovice",
+    "subtitle": "Stěnava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5504485, 16.404265",
+    "category": "sucho"
+  },
+  {
+    "id": "307347",
+    "title": "Litomyšl",
+    "subtitle": "Loučná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8739862, 16.3073235",
+    "category": "normální stav"
+  },
+  {
+    "id": "307019",
+    "title": "Rohoznice",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4012173, 15.6859902",
+    "category": "normální stav"
+  },
+  {
+    "id": "307200",
+    "title": "VD Fryšták",
+    "subtitle": "Fryštácký potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2623282, 17.6929684",
+    "category": "normální stav"
+  },
+  {
+    "id": "307324",
+    "title": "Bohumín",
+    "subtitle": "Odra",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9211635, 18.3281217",
+    "category": "sucho"
+  },
+  {
+    "id": "307345",
+    "title": "Velké Karlovice",
+    "subtitle": "Vsetínská Bečva",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.36086, 18.2827864",
+    "category": "sucho"
+  },
+  {
+    "id": "307248",
+    "title": "Hronov",
+    "subtitle": "Metuje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4831742, 16.1808633",
+    "category": "normální stav"
+  },
+  {
+    "id": "307150",
+    "title": "Veverská Bítýška",
+    "subtitle": "Svratka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2774573, 16.4396821",
+    "category": "sucho"
+  },
+  {
+    "id": "307299",
+    "title": "Třetí Mlýn",
+    "subtitle": "Chomutovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.49939, 13.3306754",
+    "category": "sucho"
+  },
+  {
+    "id": "307043",
+    "title": "Římov",
+    "subtitle": "Malše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.863079, 14.4970326",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505268",
+    "title": "Svatava",
+    "subtitle": "Svatava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1885817, 12.6289243",
+    "category": "sucho"
+  },
+  {
+    "id": "307259",
+    "title": "Louňovice pod Blaníkem",
+    "subtitle": "Blanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6205112, 14.8393704",
+    "category": "sucho"
+  },
+  {
+    "id": "10045030",
+    "title": "Kostelec nad Labem",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2377791, 14.5925788",
+    "category": "normální stav"
+  },
+  {
+    "id": "10045032",
+    "title": "Nesměřice",
+    "subtitle": "Želivka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7262653, 15.0846468",
+    "category": "normální stav"
+  },
+  {
+    "id": "10045034",
+    "title": "Slověnice",
+    "subtitle": "Chotýšanka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7515572, 14.888583",
+    "category": "sucho"
+  },
+  {
+    "id": "10058896",
+    "title": "Bohuňovsko-Jesenný",
+    "subtitle": "Kamenice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6546244, 15.3256774",
+    "category": "normální stav"
+  },
+  {
+    "id": "307234",
+    "title": "Chlum",
+    "subtitle": "Teplá Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8621431, 13.8973772",
+    "category": "sucho"
+  },
+  {
+    "id": "307205",
+    "title": "Brno - Poříčí (dočasně přesunuto)",
+    "subtitle": "Svratka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1859963, 16.5914796",
+    "category": "sucho"
+  },
+  {
+    "id": "306971",
+    "title": "Jemnice",
+    "subtitle": "Želetavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0211304, 15.5672246",
+    "category": "normální stav"
+  },
+  {
+    "id": "20070411",
+    "title": "Hrachov",
+    "subtitle": "Brzina",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6614311, 14.3013548",
+    "category": "sucho"
+  },
+  {
+    "id": "20075521",
+    "title": "Milevsko",
+    "subtitle": "Milevský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.4557401, 14.3668962",
+    "category": "normální stav"
+  },
+  {
+    "id": "307053",
+    "title": "Špindlerův Mlýn",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7231692, 15.5980379",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505251",
+    "title": "Podhradí nad Dyjí",
+    "subtitle": "Dyje",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9033407, 15.6913717",
+    "category": "sucho"
+  },
+  {
+    "id": "307098",
+    "title": "Petřvald",
+    "subtitle": "Lubina",
+    "status": "sucho",
+    "time": "25.08.2025 23:00",
+    "coords": "49.7126952, 18.1541528",
+    "category": "sucho"
+  },
+  {
+    "id": "20070907",
+    "title": "Bílek",
+    "subtitle": "Doubrava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.703486, 15.7338443",
+    "category": "sucho"
+  },
+  {
+    "id": "20085037",
+    "title": "Terezín",
+    "subtitle": "Ohře",
+    "status": "normální stav",
+    "time": "07.03.2023 07:50",
+    "coords": "50.5096681, 14.1571234",
+    "category": "normální stav"
+  },
+  {
+    "id": "307323",
+    "title": "Žermanice pod nádrží",
+    "subtitle": "Lučina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7339753, 18.4446815",
+    "category": "normální stav"
+  },
+  {
+    "id": "307274",
+    "title": "Bílá Hora",
+    "subtitle": "Berounka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7663846, 13.4009724",
+    "category": "sucho"
+  },
+  {
+    "id": "20084971",
+    "title": "Rumburk",
+    "subtitle": "Mandava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.945499, 14.5752042",
+    "category": "normální stav"
+  },
+  {
+    "id": "20265575",
+    "title": "Kouty nad Desnou",
+    "subtitle": "Desná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0999837, 17.1113831",
+    "category": "sucho"
+  },
+  {
+    "id": "307014",
+    "title": "Žleby",
+    "subtitle": "Doubrava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8894732, 15.4773442",
+    "category": "sucho"
+  },
+  {
+    "id": "20474208",
+    "title": "Černý Potok",
+    "subtitle": "Černá voda",
+    "status": "normální stav",
+    "time": "02.07.2024 00:50",
+    "coords": "50.4895394, 13.0783021",
+    "category": "normální stav"
+  },
+  {
+    "id": "20474228",
+    "title": "Kryštofovy Hamry",
+    "subtitle": "Přísečnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4934944, 13.1317811",
+    "category": "normální stav"
+  },
+  {
+    "id": "20284461",
+    "title": "Všemily",
+    "subtitle": "Chřibská Kamenice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8376869, 14.3710172",
+    "category": "normální stav"
+  },
+  {
+    "id": "20427485",
+    "title": "Bílá Smědá",
+    "subtitle": "Bílá Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8460509, 15.2697301",
+    "category": "normální stav"
+  },
+  {
+    "id": "20491235",
+    "title": "Nesměř",
+    "subtitle": "Oslava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3196033, 16.0254481",
+    "category": "normální stav"
+  },
+  {
+    "id": "20491238",
+    "title": "Strážnice",
+    "subtitle": "Velička",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9044252, 17.3434975",
+    "category": "normální stav"
+  },
+  {
+    "id": "20598963",
+    "title": "Otradov",
+    "subtitle": "Krounka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:15",
+    "coords": "49.7921079, 16.0429012",
+    "category": "normální stav"
+  },
+  {
+    "id": "20045344",
+    "title": "Žákava",
+    "subtitle": "Bradava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6311583, 13.5320533",
+    "category": "sucho"
+  },
+  {
+    "id": "20070460",
+    "title": "Orlické Záhoří",
+    "subtitle": "Divoká Orlice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.273778, 16.4808819",
+    "category": "sucho"
+  },
+  {
+    "id": "20241195",
+    "title": "Novosedly",
+    "subtitle": "Polečnice (Kájovský potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.7972596, 14.2549107",
+    "category": "normální stav"
+  },
+  {
+    "id": "20409119",
+    "title": "Dolní Bory - Olší",
+    "subtitle": "Oslava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4225289, 15.9855345",
+    "category": "sucho"
+  },
+  {
+    "id": "20043324",
+    "title": "Klikov",
+    "subtitle": "Dračice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9051218, 14.9064312",
+    "category": "normální stav"
+  },
+  {
+    "id": "307470",
+    "title": "Popov",
+    "subtitle": "Vlára",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0772435, 17.9706645",
+    "category": "normální stav"
+  },
+  {
+    "id": "307109",
+    "title": "Jindřichov",
+    "subtitle": "Branná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0949605, 16.9805948",
+    "category": "sucho"
+  },
+  {
+    "id": "25089941",
+    "title": "Pila",
+    "subtitle": "Lomnický potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1777232, 12.9267031",
+    "category": "sucho"
+  },
+  {
+    "id": "20812158",
+    "title": "Kašava nad nádrží",
+    "subtitle": "Dřevnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2887359, 17.7814427",
+    "category": "normální stav"
+  },
+  {
+    "id": "25863926",
+    "title": "Trhové Sviny",
+    "subtitle": "Svinenský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8401743, 14.6320199",
+    "category": "normální stav"
+  },
+  {
+    "id": "20773803",
+    "title": "Poříčí nad Sázavou",
+    "subtitle": "Konopišťský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:40",
+    "coords": "49.8353721, 14.6771854",
+    "category": "normální stav"
+  },
+  {
+    "id": "20797394",
+    "title": "Pertoltice",
+    "subtitle": "Panenský potok",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6701882, 14.7203925",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "26597509",
+    "title": "Staré Město pod Landštejnem",
+    "subtitle": "Pstruhovec",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "17.06.2025 09:40",
+    "coords": "48.987094, 15.2487453",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "20922048",
+    "title": "Sobotín",
+    "subtitle": "Merta",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0182389, 17.0706463",
+    "category": "sucho"
+  },
+  {
+    "id": "20262955",
+    "title": "Velká Štáhle",
+    "subtitle": "Moravice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9325013, 17.3517859",
+    "category": "sucho"
+  },
+  {
+    "id": "307106",
+    "title": "Mitrov",
+    "subtitle": "Dědina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2107491, 16.02149",
+    "category": "normální stav"
+  },
+  {
+    "id": "23851290",
+    "title": "Zděchov",
+    "subtitle": "Zděchovka",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2646402, 18.0779191",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307142",
+    "title": "Český Těšín",
+    "subtitle": "Olše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7179671, 18.6282249",
+    "category": "normální stav"
+  },
+  {
+    "id": "307123",
+    "title": "Želiv",
+    "subtitle": "Želivka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5284672, 15.2417076",
+    "category": "normální stav"
+  },
+  {
+    "id": "307255",
+    "title": "Zruč nad Sázavou",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7408584, 15.1014037",
+    "category": "sucho"
+  },
+  {
+    "id": "2505295",
+    "title": "Moravský Krumlov",
+    "subtitle": "Rokytná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0510375, 16.3056827",
+    "category": "sucho"
+  },
+  {
+    "id": "2506441",
+    "title": "VD Březová",
+    "subtitle": "Teplá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1949455, 12.8599793",
+    "category": "sucho"
+  },
+  {
+    "id": "307207",
+    "title": "Hubenov pod přehradou",
+    "subtitle": "Maršovský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3919117, 15.4895316",
+    "category": "normální stav"
+  },
+  {
+    "id": "20210507",
+    "title": "Strašice",
+    "subtitle": "Klabava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7251273, 13.7612577",
+    "category": "normální stav"
+  },
+  {
+    "id": "307036",
+    "title": "Vyšší Brod",
+    "subtitle": "Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "48.6254571, 14.3058508",
+    "category": "sucho"
+  },
+  {
+    "id": "20403255",
+    "title": "Sobětice",
+    "subtitle": "Mochtínský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3689698, 13.3161092",
+    "category": "normální stav"
+  },
+  {
+    "id": "307311",
+    "title": "Bílý Potok",
+    "subtitle": "Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8761752, 15.210986",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505281",
+    "title": "Třebel",
+    "subtitle": "Kosový potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8266603, 12.8390084",
+    "category": "normální stav"
+  },
+  {
+    "id": "38406654",
+    "title": "Praha - Petrovice",
+    "subtitle": "Botič",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0307747, 14.55701",
+    "category": "normální stav"
+  },
+  {
+    "id": "20753343",
+    "title": "Josefův Důl",
+    "subtitle": "Kamenice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7912289, 15.2100519",
+    "category": "normální stav"
+  },
+  {
+    "id": "41433298",
+    "title": "Zlaté Hory",
+    "subtitle": "Zlatý potok",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2610393, 17.3955247",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "41433537",
+    "title": "Horní Domaslavice",
+    "subtitle": "Lučina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6939138, 18.4622003",
+    "category": "normální stav"
+  },
+  {
+    "id": "20653435",
+    "title": "Bulovský potok",
+    "subtitle": "Bulovský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9712608, 15.0403883",
+    "category": "normální stav"
+  },
+  {
+    "id": "307371",
+    "title": "Velká nad Veličkou",
+    "subtitle": "Velička",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8776216, 17.5189649",
+    "category": "normální stav"
+  },
+  {
+    "id": "307015",
+    "title": "Vrchlice",
+    "subtitle": "Vrchlice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.926046, 15.2276383",
+    "category": "sucho"
+  },
+  {
+    "id": "306988",
+    "title": "Boskovice pod přehradou",
+    "subtitle": "Bělá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4938761, 16.6984972",
+    "category": "normální stav"
+  },
+  {
+    "id": "10059505",
+    "title": "Kaplice",
+    "subtitle": "Malše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.7394843, 14.4980031",
+    "category": "normální stav"
+  },
+  {
+    "id": "45599721",
+    "title": "Slavíč",
+    "subtitle": "Slavíč",
+    "status": "normální stav",
+    "time": "25.08.2025 20:10",
+    "coords": "49.5839315, 18.5540689",
+    "category": "normální stav"
+  },
+  {
+    "id": "307199",
+    "title": "Kroměříž",
+    "subtitle": "Morava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3023368, 17.39874",
+    "category": "sucho"
+  },
+  {
+    "id": "307156",
+    "title": "Březí",
+    "subtitle": "Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "48.9174592, 14.4310515",
+    "category": "sucho"
+  },
+  {
+    "id": "307096",
+    "title": "Čermná nad Orlicí",
+    "subtitle": "Tichá Orlice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0780469, 16.1353034",
+    "category": "sucho"
+  },
+  {
+    "id": "29954035",
+    "title": "Černá Smědá",
+    "subtitle": "Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8451272, 15.2734573",
+    "category": "normální stav"
+  },
+  {
+    "id": "307064",
+    "title": "Chlístov",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6185758, 15.5272108",
+    "category": "sucho"
+  },
+  {
+    "id": "29235299",
+    "title": "Rychaltice",
+    "subtitle": "Ondřejnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.643969, 18.2176985",
+    "category": "normální stav"
+  },
+  {
+    "id": "307337",
+    "title": "Moravičany",
+    "subtitle": "Morava",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7557824, 16.975583",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "2605340",
+    "title": "Osoblaha",
+    "subtitle": "Osoblaha",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2727272, 17.7203981",
+    "category": "sucho"
+  },
+  {
+    "id": "307146",
+    "title": "Vyškov",
+    "subtitle": "Haná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2818068, 16.9952908",
+    "category": "normální stav"
+  },
+  {
+    "id": "2497644",
+    "title": "Děčín",
+    "subtitle": "Labe",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7821845, 14.209554",
+    "category": "sucho"
+  },
+  {
+    "id": "39933456",
+    "title": "Vyšní Lhoty tok",
+    "subtitle": "Morávka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6266715, 18.4634914",
+    "category": "sucho"
+  },
+  {
+    "id": "20287377",
+    "title": "Jílové",
+    "subtitle": "Jílovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7630693, 14.1073408",
+    "category": "sucho"
+  },
+  {
+    "id": "10045028",
+    "title": "Hřensko - Labe",
+    "subtitle": "Labe",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8804078, 14.237489",
+    "category": "sucho"
+  },
+  {
+    "id": "307092",
+    "title": "Hřensko",
+    "subtitle": "Kamenice",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8738614, 14.2511052",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "2506442",
+    "title": "Žatec",
+    "subtitle": "Ohře",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3350137, 13.5403609",
+    "category": "normální stav"
+  },
+  {
+    "id": "307165",
+    "title": "Radíč",
+    "subtitle": "Mastník",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.715353, 14.4148733",
+    "category": "normální stav"
+  },
+  {
+    "id": "22554181",
+    "title": "Malá Morávka",
+    "subtitle": "Bělokamenný potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:00",
+    "coords": "50.0255026, 17.3131296",
+    "category": "sucho"
+  },
+  {
+    "id": "307140",
+    "title": "Mezina",
+    "subtitle": "Černý potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9561516, 17.4904593",
+    "category": "sucho"
+  },
+  {
+    "id": "307072",
+    "title": "Staňkov",
+    "subtitle": "Radbuza",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5526691, 13.0712081",
+    "category": "sucho"
+  },
+  {
+    "id": "37816755",
+    "title": "Praha - Hostivař",
+    "subtitle": "Botič",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.043822, 14.5285023",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505280",
+    "title": "Prádlo",
+    "subtitle": "Úslava",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "18.02.2025 14:20",
+    "coords": "49.501017, 13.562278",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307017",
+    "title": "Lázně Bělohrad",
+    "subtitle": "Javorka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4318786, 15.5833963",
+    "category": "sucho"
+  },
+  {
+    "id": "307285",
+    "title": "Loděnice",
+    "subtitle": "Loděnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9930848, 14.1607808",
+    "category": "sucho"
+  },
+  {
+    "id": "29235761",
+    "title": "Řeka",
+    "subtitle": "Ropičanka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6418754, 18.5712638",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505292",
+    "title": "Mostiště pod přehradou",
+    "subtitle": "Oslava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3927303, 16.0124703",
+    "category": "normální stav"
+  },
+  {
+    "id": "31571772",
+    "title": "Uhlířská",
+    "subtitle": "Černá Nisa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8241852, 15.1470247",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505260",
+    "title": "Havlíčkův Brod - Pohledští Dvořáci",
+    "subtitle": "Sázava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6090627, 15.6142536",
+    "category": "sucho"
+  },
+  {
+    "id": "307042",
+    "title": "Pořešín",
+    "subtitle": "Malše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.7825994, 14.5184447",
+    "category": "normální stav"
+  },
+  {
+    "id": "38158749",
+    "title": "Litoměřice",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5280343, 14.1122036",
+    "category": "normální stav"
+  },
+  {
+    "id": "34140055",
+    "title": "Sobkovice",
+    "subtitle": "Tichá Orlice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0506343, 16.6069061",
+    "category": "normální stav"
+  },
+  {
+    "id": "307091",
+    "title": "Česká Lípa",
+    "subtitle": "Ploučnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.682915, 14.5368924",
+    "category": "sucho"
+  },
+  {
+    "id": "307004",
+    "title": "Přibice",
+    "subtitle": "Jihlava",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "48.9590566, 16.571764",
+    "category": "normální stav"
+  },
+  {
+    "id": "307114",
+    "title": "Chlumec nad Cidlinou",
+    "subtitle": "Cidlina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "50.1487414, 15.4649319",
+    "category": "normální stav"
+  },
+  {
+    "id": "20070434",
+    "title": "Lány - Běleč",
+    "subtitle": "Lánský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0778731, 13.9400616",
+    "category": "normální stav"
+  },
+  {
+    "id": "20045966",
+    "title": "Rokycany - Na Pátku",
+    "subtitle": "Klabava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7424963, 13.5993981",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505277",
+    "title": "VD Žlutice",
+    "subtitle": "Střela",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "50.0849834, 13.1267009",
+    "category": "normální stav"
+  },
+  {
+    "id": "307032",
+    "title": "Železný Brod",
+    "subtitle": "Jizera",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.639942, 15.2744079",
+    "category": "normální stav"
+  },
+  {
+    "id": "307289",
+    "title": "Vraňany",
+    "subtitle": "Vltava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3133062, 14.3626379",
+    "category": "sucho"
+  },
+  {
+    "id": "2504741",
+    "title": "Vestřev",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5144063, 15.7417222",
+    "category": "normální stav"
+  },
+  {
+    "id": "307352",
+    "title": "Teplice",
+    "subtitle": "Bečva",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5300319, 17.745986",
+    "category": "sucho"
+  },
+  {
+    "id": "307197",
+    "title": "Valašské Meziříčí",
+    "subtitle": "Rožnovská Bečva",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4729373, 17.9774385",
+    "category": "normální stav"
+  },
+  {
+    "id": "307282",
+    "title": "Čenkov",
+    "subtitle": "Litavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7765091, 14.0057825",
+    "category": "normální stav"
+  },
+  {
+    "id": "307367",
+    "title": "VD Bojkovice",
+    "subtitle": "Kolelač",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0493954, 17.8437719",
+    "category": "normální stav"
+  },
+  {
+    "id": "307155",
+    "title": "Vestec",
+    "subtitle": "Mrlina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2397659, 15.1455674",
+    "category": "normální stav"
+  },
+  {
+    "id": "307253",
+    "title": "Sázava",
+    "subtitle": "Sázava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5551445, 15.8491949",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505263",
+    "title": "Červená Řečice",
+    "subtitle": "Trnava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5259626, 15.1736847",
+    "category": "sucho"
+  },
+  {
+    "id": "20085034",
+    "title": "Kadaň",
+    "subtitle": "Ohře",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.369296, 13.2794252",
+    "category": "normální stav"
+  },
+  {
+    "id": "306977",
+    "title": "Výrovice",
+    "subtitle": "Jevišovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.928858, 16.1112249",
+    "category": "normální stav"
+  },
+  {
+    "id": "20823334",
+    "title": "Bartošovice",
+    "subtitle": "Odra",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6884301, 18.0426761",
+    "category": "normální stav"
+  },
+  {
+    "id": "307368",
+    "title": "VD Luhačovice",
+    "subtitle": "Luhačovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1206231, 17.772584",
+    "category": "normální stav"
+  },
+  {
+    "id": "307369",
+    "title": "VD Ludkovice",
+    "subtitle": "Ludkovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "49.1212838, 17.7267091",
+    "category": "normální stav"
+  },
+  {
+    "id": "307097",
+    "title": "Odry tok",
+    "subtitle": "Odra",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6645988, 17.8324519",
+    "category": "sucho"
+  },
+  {
+    "id": "307321",
+    "title": "Chábory",
+    "subtitle": "Dědina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2697571, 16.1948003",
+    "category": "normální stav"
+  },
+  {
+    "id": "20084968",
+    "title": "Višňová",
+    "subtitle": "Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9498546, 15.0303696",
+    "category": "normální stav"
+  },
+  {
+    "id": "307129",
+    "title": "Planá",
+    "subtitle": "Hamerský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8619406, 12.7184796",
+    "category": "sucho"
+  },
+  {
+    "id": "2505286",
+    "title": "Lhota",
+    "subtitle": "Radbuza",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6888081, 13.3258534",
+    "category": "sucho"
+  },
+  {
+    "id": "2505283",
+    "title": "Mírovka",
+    "subtitle": "Šlapanka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5810371, 15.6174313",
+    "category": "sucho"
+  },
+  {
+    "id": "20214893",
+    "title": "Praha-Radotín",
+    "subtitle": "Radotínský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9835876, 14.3606714",
+    "category": "normální stav"
+  },
+  {
+    "id": "307007",
+    "title": "Břeclav-Ladná",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8037157, 16.8537248",
+    "category": "normální stav"
+  },
+  {
+    "id": "28975955",
+    "title": "Žulová",
+    "subtitle": "Stříbrný potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.305521, 17.0926645",
+    "category": "normální stav"
+  },
+  {
+    "id": "307201",
+    "title": "Uherský Brod",
+    "subtitle": "Olšava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0161967, 17.6437479",
+    "category": "normální stav"
+  },
+  {
+    "id": "10045024",
+    "title": "Zbraslav",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9721079, 14.3973113",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505290",
+    "title": "Brtnice",
+    "subtitle": "Brtnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3003845, 15.6782696",
+    "category": "sucho"
+  },
+  {
+    "id": "307116",
+    "title": "Jablonec nad Jizerou",
+    "subtitle": "Jizera",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6950287, 15.4384112",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505266",
+    "title": "Olomouc-Nové Sady tok",
+    "subtitle": "Morava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5772517, 17.2608599",
+    "category": "normální stav"
+  },
+  {
+    "id": "307212",
+    "title": "Sány",
+    "subtitle": "Cidlina",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1273023, 15.2415743",
+    "category": "sucho"
+  },
+  {
+    "id": "2535576",
+    "title": "Jaroměř",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3427582, 15.9249555",
+    "category": "normální stav"
+  },
+  {
+    "id": "307211",
+    "title": "Jičín",
+    "subtitle": "Cidlina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.433831, 15.3522899",
+    "category": "normální stav"
+  },
+  {
+    "id": "41064550",
+    "title": "Velké Albrechtice",
+    "subtitle": "Bílovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7459015, 18.0692368",
+    "category": "sucho"
+  },
+  {
+    "id": "37904504",
+    "title": "Hoštka",
+    "subtitle": "Obrtka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4875975, 14.3350487",
+    "category": "normální stav"
+  },
+  {
+    "id": "307247",
+    "title": "Hracholusky",
+    "subtitle": "Zlatý potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.0561678, 14.0786789",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505294",
+    "title": "VD Plumlov",
+    "subtitle": "Hloučela",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.469464, 17.0401148",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505252",
+    "title": "Vysočany",
+    "subtitle": "Želetavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9597687, 15.6831875",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505293",
+    "title": "Velké Meziříčí",
+    "subtitle": "Oslava",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "49.3515756, 16.0166487",
+    "category": "normální stav"
+  },
+  {
+    "id": "307174",
+    "title": "Nová Huť",
+    "subtitle": "Klabava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7823733, 13.5089324",
+    "category": "normální stav"
+  },
+  {
+    "id": "307164",
+    "title": "Heřmaň",
+    "subtitle": "Blanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2459592, 14.1317992",
+    "category": "sucho"
+  },
+  {
+    "id": "2505258",
+    "title": "Žďár nad Sázavou",
+    "subtitle": "Sázava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5612975, 15.9312135",
+    "category": "normální stav"
+  },
+  {
+    "id": "20677475",
+    "title": "Rajnochovice",
+    "subtitle": "Juhyně",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.400108, 17.8154028",
+    "category": "sucho"
+  },
+  {
+    "id": "307245",
+    "title": "Němětice",
+    "subtitle": "Volyňka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1974003, 13.8854666",
+    "category": "sucho"
+  },
+  {
+    "id": "307139",
+    "title": "Fulnek",
+    "subtitle": "Husí potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7143331, 17.9052734",
+    "category": "normální stav"
+  },
+  {
+    "id": "20827518",
+    "title": "Vřesina",
+    "subtitle": "Porubka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8290172, 18.1265413",
+    "category": "sucho"
+  },
+  {
+    "id": "306989",
+    "title": "Bílovice nad Svitavou",
+    "subtitle": "Svitava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2454285, 16.6749281",
+    "category": "sucho"
+  },
+  {
+    "id": "307302",
+    "title": "Třebovice",
+    "subtitle": "Třebovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8549948, 16.4988828",
+    "category": "normální stav"
+  },
+  {
+    "id": "307313",
+    "title": "Předlánce",
+    "subtitle": "Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9781132, 15.0347684",
+    "category": "normální stav"
+  },
+  {
+    "id": "20284478",
+    "title": "Stráž pod Ralskem",
+    "subtitle": "Ještědský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7049545, 14.8114231",
+    "category": "sucho"
+  },
+  {
+    "id": "20241095",
+    "title": "Mnichov",
+    "subtitle": "Černá Opava",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "07.02.2025 07:00",
+    "coords": "50.1507707, 17.3730321",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307319",
+    "title": "Děhylov",
+    "subtitle": "Opava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8794406, 18.1767075",
+    "category": "normální stav"
+  },
+  {
+    "id": "307233",
+    "title": "Strážnice",
+    "subtitle": "Morava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9328778, 17.2976139",
+    "category": "sucho"
+  },
+  {
+    "id": "2505282",
+    "title": "Stříbro",
+    "subtitle": "Mže",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7522459, 13.00861",
+    "category": "sucho"
+  },
+  {
+    "id": "307221",
+    "title": "Čakovice",
+    "subtitle": "Želivka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4600477, 15.1742493",
+    "category": "sucho"
+  },
+  {
+    "id": "41064736",
+    "title": "Vyšní Lhoty přivaděč",
+    "subtitle": "Přivaděč Morávka-Žermanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6268119, 18.4636242",
+    "category": "sucho"
+  },
+  {
+    "id": "307193",
+    "title": "Schwarzenau",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 22:30",
+    "coords": "48.741264, 15.2580256",
+    "category": "normální stav"
+  },
+  {
+    "id": "37575599",
+    "title": "Kaceřov",
+    "subtitle": "Třemošná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8635871, 13.5040904",
+    "category": "sucho"
+  },
+  {
+    "id": "2505272",
+    "title": "Koterov",
+    "subtitle": "Úslava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7137432, 13.4242411",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505275",
+    "title": "Liblín",
+    "subtitle": "Berounka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9191978, 13.5459443",
+    "category": "normální stav"
+  },
+  {
+    "id": "307356",
+    "title": "Klopotovice",
+    "subtitle": "Blata",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4481125, 17.2588621",
+    "category": "normální stav"
+  },
+  {
+    "id": "307158",
+    "title": "Maršov nad Metují",
+    "subtitle": "Metuje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "50.5299704, 16.189817",
+    "category": "normální stav"
+  },
+  {
+    "id": "307206",
+    "title": "Luže",
+    "subtitle": "Novohradka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8869055, 16.026294",
+    "category": "normální stav"
+  },
+  {
+    "id": "20023346",
+    "title": "Zlíč",
+    "subtitle": "Úpa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4104641, 16.0561165",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505265",
+    "title": "Chornice",
+    "subtitle": "Jevíčka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6644664, 16.7497332",
+    "category": "normální stav"
+  },
+  {
+    "id": "306974",
+    "title": "Vranov - Hamry",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8946231, 15.8190989",
+    "category": "normální stav"
+  },
+  {
+    "id": "307078",
+    "title": "Hředle",
+    "subtitle": "Stroupínský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9020872, 13.9220916",
+    "category": "normální stav"
+  },
+  {
+    "id": "20797314",
+    "title": "Stružnice",
+    "subtitle": "Ploučnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6915232, 14.4676151",
+    "category": "sucho"
+  },
+  {
+    "id": "307351",
+    "title": "Rožnov pod Radhoštěm",
+    "subtitle": "Rožnovská Bečva",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4584816, 18.1273157",
+    "category": "normální stav"
+  },
+  {
+    "id": "307039",
+    "title": "Český Krumlov",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.7966758, 14.3036575",
+    "category": "normální stav"
+  },
+  {
+    "id": "307190",
+    "title": "Radvanice",
+    "subtitle": "Lučina",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.821113, 18.3184912",
+    "category": "sucho"
+  },
+  {
+    "id": "26767276",
+    "title": "Náměšť nad Oslavou",
+    "subtitle": "Oslava",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "49.203333, 16.157028",
+    "category": "normální stav"
+  },
+  {
+    "id": "43360441",
+    "title": "Vrchoslavice",
+    "subtitle": "Velká Haná",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "49.334774, 17.2187255",
+    "category": "normální stav"
+  },
+  {
+    "id": "10045026",
+    "title": "Srbsko",
+    "subtitle": "Berounka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.936991, 14.1328637",
+    "category": "normální stav"
+  },
+  {
+    "id": "10059408",
+    "title": "Nymburk",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1827868, 15.0415844",
+    "category": "normální stav"
+  },
+  {
+    "id": "20578675",
+    "title": "Rosice",
+    "subtitle": "Žejbro",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9224429, 15.9533961",
+    "category": "normální stav"
+  },
+  {
+    "id": "43360490",
+    "title": "Polichno",
+    "subtitle": "Luhačovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "49.0680798, 17.7117076",
+    "category": "normální stav"
+  },
+  {
+    "id": "43360541",
+    "title": "Plaveč",
+    "subtitle": "Jevišovka",
+    "status": "normální stav",
+    "time": "25.08.2025 22:00",
+    "coords": "48.93083, 16.075968",
+    "category": "normální stav"
+  },
+  {
+    "id": "43360513",
+    "title": "Štěpánov nad Svratkou",
+    "subtitle": "Hodonínka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5000393, 16.3428076",
+    "category": "normální stav"
+  },
+  {
+    "id": "20085092",
+    "title": "Děčín-Březiny",
+    "subtitle": "Ploučnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7617042, 14.2437189",
+    "category": "normální stav"
+  },
+  {
+    "id": "2732030",
+    "title": "Stanovice",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "50.3997613, 15.8705611",
+    "category": "normální stav"
+  },
+  {
+    "id": "307181",
+    "title": "Letohrad - Kunčice",
+    "subtitle": "Tichá Orlice",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.0094466, 16.5401777",
+    "category": "normální stav"
+  },
+  {
+    "id": "307153",
+    "title": "Bítovany",
+    "subtitle": "Ležák",
+    "status": "normální stav",
+    "time": "",
+    "coords": "49.8985071, 15.8640982",
+    "category": "normální stav"
+  },
+  {
+    "id": "306998",
+    "title": "Leštinka",
+    "subtitle": "Žejbro",
+    "status": "normální stav",
+    "time": "",
+    "coords": "49.8401757, 15.9627117",
+    "category": "normální stav"
+  },
+  {
+    "id": "307192",
+    "title": "Hradec Králové",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.2020173, 15.8235042",
+    "category": "normální stav"
+  },
+  {
+    "id": "307307",
+    "title": "Ústí nad Orlicí - Kerhartice",
+    "subtitle": "Tichá Orlice",
+    "status": "normální stav",
+    "time": "",
+    "coords": "49.972286, 16.3619134",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505285",
+    "title": "Domažlice",
+    "subtitle": "Zubřina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4357181, 12.9456778",
+    "category": "normální stav"
+  },
+  {
+    "id": "307021",
+    "title": "Kopidlno",
+    "subtitle": "Mrlina",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.3337485, 15.2692416",
+    "category": "normální stav"
+  },
+  {
+    "id": "307006",
+    "title": "Rudník",
+    "subtitle": "Čistá",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.5678372, 15.7291205",
+    "category": "normální stav"
+  },
+  {
+    "id": "307168",
+    "title": "Jaroměř - Josefov",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.3376384, 15.9169454",
+    "category": "normální stav"
+  },
+  {
+    "id": "307250",
+    "title": "VD Orlík",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "",
+    "coords": "49.6059435, 14.1839153",
+    "category": "normální stav"
+  },
+  {
+    "id": "307115",
+    "title": "Pilníkov - most",
+    "subtitle": "Pilníkovský potok",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.5310256, 15.8100839",
+    "category": "normální stav"
+  },
+  {
+    "id": "2775879",
+    "title": "Kozlovice",
+    "subtitle": "Ondřejnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.6031596, 18.2581839",
+    "category": "normální stav"
+  },
+  {
+    "id": "2775878",
+    "title": "VD Olešná",
+    "subtitle": "Olešná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.6666964, 18.3192619",
+    "category": "normální stav"
+  },
+  {
+    "id": "2601541",
+    "title": "Brenná",
+    "subtitle": "Ploučnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6519587, 14.6280226",
+    "category": "sucho"
+  },
+  {
+    "id": "2839574",
+    "title": "Bavorov",
+    "subtitle": "Blanice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:10",
+    "coords": "49.1225948, 14.0916985",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426494",
+    "title": "Praha - Výtoň",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0681903, 14.4146268",
+    "category": "normální stav"
+  },
+  {
+    "id": "307071",
+    "title": "Tasnovice",
+    "subtitle": "Radbuza",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5662177, 12.8355408",
+    "category": "sucho"
+  },
+  {
+    "id": "307152",
+    "title": "Baliny",
+    "subtitle": "Balinka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3387229, 15.9604167",
+    "category": "normální stav"
+  },
+  {
+    "id": "20045969",
+    "title": "Rokycany - Dvořákova",
+    "subtitle": "Holoubkovský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7464232, 13.6002447",
+    "category": "normální stav"
+  },
+  {
+    "id": "20491241",
+    "title": "Skryje",
+    "subtitle": "Bobrůvka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3796061, 16.3177005",
+    "category": "sucho"
+  },
+  {
+    "id": "2645323",
+    "title": "Humenice",
+    "subtitle": "Stropnice",
+    "status": "normální stav",
+    "time": "15.07.2023 15:30",
+    "coords": "48.7745293, 14.743127",
+    "category": "normální stav"
+  },
+  {
+    "id": "41466398",
+    "title": "Raškovice",
+    "subtitle": "Mohelnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6013434, 18.4742204",
+    "category": "normální stav"
+  },
+  {
+    "id": "307343",
+    "title": "Uničov",
+    "subtitle": "Oskava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7717138, 17.1296267",
+    "category": "sucho"
+  },
+  {
+    "id": "307354",
+    "title": "Dluhonice",
+    "subtitle": "Bečva",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4495997, 17.4102012",
+    "category": "normální stav"
+  },
+  {
+    "id": "307280",
+    "title": "Čichořice",
+    "subtitle": "Střela",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0963137, 13.2699847",
+    "category": "sucho"
+  },
+  {
+    "id": "2505257",
+    "title": "Štěchovice",
+    "subtitle": "Kocába",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8481438, 14.4028905",
+    "category": "sucho"
+  },
+  {
+    "id": "307344",
+    "title": "Velká Bystřice",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5944092, 17.3464659",
+    "category": "normální stav"
+  },
+  {
+    "id": "20067827",
+    "title": "Netolice",
+    "subtitle": "Bezdrevský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0488532, 14.200238",
+    "category": "normální stav"
+  },
+  {
+    "id": "307336",
+    "title": "Lupěné",
+    "subtitle": "Moravská Sázava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8670295, 16.8387121",
+    "category": "normální stav"
+  },
+  {
+    "id": "41433227",
+    "title": "Jeseník",
+    "subtitle": "Bělá",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "15.09.2024 09:10",
+    "coords": "50.2270409, 17.2082158",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307242",
+    "title": "Sušice",
+    "subtitle": "Otava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2366021, 13.5248971",
+    "category": "sucho"
+  },
+  {
+    "id": "20816815",
+    "title": "Jaroměřice",
+    "subtitle": "Úsobrnský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6226871, 16.7541824",
+    "category": "sucho"
+  },
+  {
+    "id": "20092272",
+    "title": "Jizerka",
+    "subtitle": "Jizerka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8195163, 15.3477217",
+    "category": "sucho"
+  },
+  {
+    "id": "307055",
+    "title": "Tučapy",
+    "subtitle": "Černovický potok",
+    "status": "normální stav",
+    "time": "09.04.2025 20:20",
+    "coords": "49.2876824, 14.8041569",
+    "category": "normální stav"
+  },
+  {
+    "id": "306978",
+    "title": "Božice",
+    "subtitle": "Jevišovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8399359, 16.2847052",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505270",
+    "title": "Teplička",
+    "subtitle": "Teplá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1533711, 12.8456733",
+    "category": "sucho"
+  },
+  {
+    "id": "31395173",
+    "title": "Staré Město pod Sněžníkem",
+    "subtitle": "Vrbenský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1635466, 16.9457646",
+    "category": "normální stav"
+  },
+  {
+    "id": "20697921",
+    "title": "Kosky - Hamr",
+    "subtitle": "Koštěnický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.9549788, 14.9057954",
+    "category": "normální stav"
+  },
+  {
+    "id": "307020",
+    "title": "Roudnice",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "",
+    "coords": "50.1803435, 15.6267294",
+    "category": "normální stav"
+  },
+  {
+    "id": "307262",
+    "title": "VD Vrané",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "",
+    "coords": "49.9379823, 14.3725889",
+    "category": "normální stav"
+  },
+  {
+    "id": "20463355",
+    "title": "Chocnějovice",
+    "subtitle": "Mohelka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5752766, 14.9638558",
+    "category": "sucho"
+  },
+  {
+    "id": "307359",
+    "title": "VD Opatovice",
+    "subtitle": "Malá Haná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.300202, 16.9580571",
+    "category": "normální stav"
+  },
+  {
+    "id": "307163",
+    "title": "Strakonice",
+    "subtitle": "Otava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:10",
+    "coords": "49.2655839, 13.9152747",
+    "category": "normální stav"
+  },
+  {
+    "id": "2766951",
+    "title": "Podmokly",
+    "subtitle": "Zbirožský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9438877, 13.7456443",
+    "category": "sucho"
+  },
+  {
+    "id": "2766952",
+    "title": "Kladruby",
+    "subtitle": "Úhlavka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6962781, 12.9660748",
+    "category": "normální stav"
+  },
+  {
+    "id": "570911",
+    "title": "Slavíkovice",
+    "subtitle": "Poleňka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3897428, 13.1546883",
+    "category": "sucho"
+  },
+  {
+    "id": "2805414",
+    "title": "Uhrovic mlýn",
+    "subtitle": "Javornice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9944101, 13.6246076",
+    "category": "sucho"
+  },
+  {
+    "id": "2805413",
+    "title": "Havlovice",
+    "subtitle": "Zubřina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4315997, 12.8930463",
+    "category": "normální stav"
+  },
+  {
+    "id": "1736808",
+    "title": "Praha - Hlubočepy",
+    "subtitle": "Dalejský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0415157, 14.3903957",
+    "category": "normální stav"
+  },
+  {
+    "id": "307203",
+    "title": "Znojmo",
+    "subtitle": "Dyje",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8539112, 16.0428039",
+    "category": "normální stav"
+  },
+  {
+    "id": "307365",
+    "title": "Vizovice",
+    "subtitle": "Lutoninka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2140479, 17.8382557",
+    "category": "sucho"
+  },
+  {
+    "id": "20268815",
+    "title": "Staré Hamry",
+    "subtitle": "Ostravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4583823, 18.4572596",
+    "category": "normální stav"
+  },
+  {
+    "id": "307326",
+    "title": "Jablunkov",
+    "subtitle": "Lomná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5764975, 18.7607458",
+    "category": "sucho"
+  },
+  {
+    "id": "307009",
+    "title": "Kyjov",
+    "subtitle": "Kyjovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0105805, 17.1211247",
+    "category": "normální stav"
+  },
+  {
+    "id": "307315",
+    "title": "Šance pod nádrží",
+    "subtitle": "Ostravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.5143628, 18.413689",
+    "category": "normální stav"
+  },
+  {
+    "id": "43143289",
+    "title": "Praha - Jiviny",
+    "subtitle": "Litovický potok",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0803693, 14.3027513",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "506782",
+    "title": "Prosečné",
+    "subtitle": "Malé Labe",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.552152, 15.694443",
+    "category": "sucho"
+  },
+  {
+    "id": "523458",
+    "title": "Nová Říše nad nádrží",
+    "subtitle": "Řečice (Olšanský potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1652997, 15.5491523",
+    "category": "normální stav"
+  },
+  {
+    "id": "1912998",
+    "title": "VD Podhora",
+    "subtitle": "Teplá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9637283, 12.8162904",
+    "category": "normální stav"
+  },
+  {
+    "id": "2557540",
+    "title": "Leopoldschlag",
+    "subtitle": "Malše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "48.6173265, 14.5035033",
+    "category": "normální stav"
+  },
+  {
+    "id": "2589701",
+    "title": "Sedmihorky",
+    "subtitle": "Libuňka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5581139, 15.1955115",
+    "category": "sucho"
+  },
+  {
+    "id": "20042094",
+    "title": "Rakovník",
+    "subtitle": "Rakovnický potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0893061, 13.7554807",
+    "category": "sucho"
+  },
+  {
+    "id": "307037",
+    "title": "Les Království",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4550644, 15.7716713",
+    "category": "normální stav"
+  },
+  {
+    "id": "307040",
+    "title": "Brloh",
+    "subtitle": "Křemžský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "48.9269331, 14.2206233",
+    "category": "normální stav"
+  },
+  {
+    "id": "20267515",
+    "title": "Habartice",
+    "subtitle": "Krupá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1026731, 16.929667",
+    "category": "sucho"
+  },
+  {
+    "id": "307054",
+    "title": "Frahelž",
+    "subtitle": "Lužnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.1187081, 14.7379021",
+    "category": "normální stav"
+  },
+  {
+    "id": "307059",
+    "title": "Podedvory",
+    "subtitle": "Blanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0363262, 13.9529503",
+    "category": "sucho"
+  },
+  {
+    "id": "20368223",
+    "title": "Sendražice",
+    "subtitle": "Trotina",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2968053, 15.8169388",
+    "category": "normální stav"
+  },
+  {
+    "id": "20519935",
+    "title": "Antýgl",
+    "subtitle": "Hamerský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "49.0590995, 13.5180315",
+    "category": "sucho"
+  },
+  {
+    "id": "2505291",
+    "title": "Ptáčov",
+    "subtitle": "Jihlava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2150769, 15.9348353",
+    "category": "normální stav"
+  },
+  {
+    "id": "10044851",
+    "title": "Radonice I",
+    "subtitle": "Blanice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.788906, 14.9328186",
+    "category": "sucho"
+  },
+  {
+    "id": "307226",
+    "title": "Josefodol",
+    "subtitle": "Sázavka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6831309, 15.4195133",
+    "category": "sucho"
+  },
+  {
+    "id": "307284",
+    "title": "Beroun",
+    "subtitle": "Berounka",
+    "status": "sucho",
+    "time": "25.08.2025 23:40",
+    "coords": "49.9587034, 14.0876646",
+    "category": "sucho"
+  },
+  {
+    "id": "20075516",
+    "title": "Božetice",
+    "subtitle": "Smutná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4504935, 14.4457814",
+    "category": "normální stav"
+  },
+  {
+    "id": "20578655",
+    "title": "Barchov",
+    "subtitle": "Podolský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9978271, 15.6819935",
+    "category": "sucho"
+  },
+  {
+    "id": "20067738",
+    "title": "Skuhrov",
+    "subtitle": "Bělá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2279373, 16.2917051",
+    "category": "sucho"
+  },
+  {
+    "id": "20067780",
+    "title": "Horní Staré Město",
+    "subtitle": "Úpa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5949355, 15.87736",
+    "category": "normální stav"
+  },
+  {
+    "id": "307133",
+    "title": "Labská",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7102425, 15.5851266",
+    "category": "normální stav"
+  },
+  {
+    "id": "307185",
+    "title": "Meziměstí",
+    "subtitle": "Stěnava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6264274, 16.2302525",
+    "category": "normální stav"
+  },
+  {
+    "id": "307183",
+    "title": "Mimoň",
+    "subtitle": "Ploučnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6580392, 14.727114",
+    "category": "sucho"
+  },
+  {
+    "id": "307349",
+    "title": "Bystřička pod nádrží",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4189795, 18.0187374",
+    "category": "normální stav"
+  },
+  {
+    "id": "20753443",
+    "title": "Košátky",
+    "subtitle": "Košátecký potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3129572, 14.66582",
+    "category": "sucho"
+  },
+  {
+    "id": "307024",
+    "title": "Plaňany",
+    "subtitle": "Výrovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0489216, 15.0160342",
+    "category": "sucho"
+  },
+  {
+    "id": "20753433",
+    "title": "Sovenice",
+    "subtitle": "Jizera",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5627256, 14.9879499",
+    "category": "sucho"
+  },
+  {
+    "id": "22182334",
+    "title": "Dolní Bukovina",
+    "subtitle": "Zábrdka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5365786, 14.9374648",
+    "category": "sucho"
+  },
+  {
+    "id": "22182516",
+    "title": "Tukleky",
+    "subtitle": "Želivka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5507491, 15.2162746",
+    "category": "sucho"
+  },
+  {
+    "id": "23048162",
+    "title": "Loštice",
+    "subtitle": "Třebůvka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7394388, 16.9275889",
+    "category": "sucho"
+  },
+  {
+    "id": "23180676",
+    "title": "Stráž nad Nisou",
+    "subtitle": "Černá Nisa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7915933, 15.050222",
+    "category": "normální stav"
+  },
+  {
+    "id": "28733133",
+    "title": "Velký Rečkov",
+    "subtitle": "Bělá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4975493, 14.8935859",
+    "category": "sucho"
+  },
+  {
+    "id": "28733137",
+    "title": "Leský Mlýn",
+    "subtitle": "Sedlický potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6604029, 15.0871567",
+    "category": "sucho"
+  },
+  {
+    "id": "36008487",
+    "title": "VD České Údolí",
+    "subtitle": "Radbuza",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7175259, 13.3611214",
+    "category": "sucho"
+  },
+  {
+    "id": "25089890",
+    "title": "Slapany - lom",
+    "subtitle": "Odrava",
+    "status": "sucho",
+    "time": "25.08.2025 22:40",
+    "coords": "50.0302595, 12.3804472",
+    "category": "sucho"
+  },
+  {
+    "id": "20745442",
+    "title": "Šindelová",
+    "subtitle": "Rotava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.316944, 12.5982743",
+    "category": "sucho"
+  },
+  {
+    "id": "20773798",
+    "title": "Mladá Boleslav",
+    "subtitle": "Klenice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4106789, 14.9091785",
+    "category": "normální stav"
+  },
+  {
+    "id": "25432571",
+    "title": "Stránky",
+    "subtitle": "Blšanka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.292054, 13.5738499",
+    "category": "sucho"
+  },
+  {
+    "id": "307310",
+    "title": "Hrádek nad Nisou",
+    "subtitle": "Lužická Nisa",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8545693, 14.8234304",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "307312",
+    "title": "Frýdlant - Řasnice",
+    "subtitle": "Řasnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9295062, 15.094311",
+    "category": "normální stav"
+  },
+  {
+    "id": "307061",
+    "title": "Varvažov",
+    "subtitle": "Skalice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4396853, 14.1280304",
+    "category": "sucho"
+  },
+  {
+    "id": "2505274",
+    "title": "Plasy",
+    "subtitle": "Střela",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9334516, 13.3904185",
+    "category": "sucho"
+  },
+  {
+    "id": "307294",
+    "title": "Stará Role",
+    "subtitle": "Rolava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2485588, 12.819925",
+    "category": "normální stav"
+  },
+  {
+    "id": "306984",
+    "title": "Dolní Loučky",
+    "subtitle": "Bobrůvka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3569584, 16.3594556",
+    "category": "sucho"
+  },
+  {
+    "id": "307361",
+    "title": "Prusy",
+    "subtitle": "Moštěnka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4281123, 17.514958",
+    "category": "normální stav"
+  },
+  {
+    "id": "307338",
+    "title": "Němčice",
+    "subtitle": "Labe",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0946613, 15.8067603",
+    "category": "normální stav"
+  },
+  {
+    "id": "307136",
+    "title": "Trmice",
+    "subtitle": "Bílina",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.646715, 14.006477",
+    "category": "sucho"
+  },
+  {
+    "id": "306980",
+    "title": "Jimramov",
+    "subtitle": "Fryšávka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6392206, 16.2170502",
+    "category": "sucho"
+  },
+  {
+    "id": "20650888",
+    "title": "Cvikov",
+    "subtitle": "Boberský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7744332, 14.6387464",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505261",
+    "title": "Radětín - Pelhřimov",
+    "subtitle": "Bělá",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4544784, 15.2365759",
+    "category": "sucho"
+  },
+  {
+    "id": "306969",
+    "title": "VD Nová Říše",
+    "subtitle": "Řečice (Olšanský potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1461894, 15.5444568",
+    "category": "normální stav"
+  },
+  {
+    "id": "307135",
+    "title": "Ostrov",
+    "subtitle": "Bystřice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3050073, 12.9363295",
+    "category": "sucho"
+  },
+  {
+    "id": "307229",
+    "title": "Zbečno",
+    "subtitle": "Berounka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0402531, 13.9201042",
+    "category": "sucho"
+  },
+  {
+    "id": "2505289",
+    "title": "Dvorce",
+    "subtitle": "Jihlava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3806057, 15.5042712",
+    "category": "sucho"
+  },
+  {
+    "id": "2505253",
+    "title": "Dalečín",
+    "subtitle": "Svratka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5951142, 16.2450246",
+    "category": "sucho"
+  },
+  {
+    "id": "20827805",
+    "title": "Nový Jičín",
+    "subtitle": "Jičínka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5984971, 18.0177153",
+    "category": "normální stav"
+  },
+  {
+    "id": "20910742",
+    "title": "Jevišovice nad nádrží",
+    "subtitle": "Jevišovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9883053, 15.9540015",
+    "category": "normální stav"
+  },
+  {
+    "id": "20949735",
+    "title": "Praha - Radotín",
+    "subtitle": "Berounka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9813143, 14.3625641",
+    "category": "sucho"
+  },
+  {
+    "id": "307018",
+    "title": "Nový Bydžov",
+    "subtitle": "Cidlina",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2381026, 15.4996954",
+    "category": "sucho"
+  },
+  {
+    "id": "307065",
+    "title": "Poříčí",
+    "subtitle": "Želivka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5368319, 15.1996603",
+    "category": "sucho"
+  },
+  {
+    "id": "28977095",
+    "title": "Velká Kraš",
+    "subtitle": "Černý potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3604067, 17.1634242",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426197",
+    "title": "Senožaty",
+    "subtitle": "Martinický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5802875, 15.2074629",
+    "category": "normální stav"
+  },
+  {
+    "id": "37829235",
+    "title": "Průhonice",
+    "subtitle": "Botič",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0014288, 14.5558999",
+    "category": "sucho"
+  },
+  {
+    "id": "506783",
+    "title": "Hostinné",
+    "subtitle": "Čistá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5417086, 15.7261038",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505256",
+    "title": "Velké Pavlovice",
+    "subtitle": "Trkmanka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9070914, 16.8201961",
+    "category": "sucho"
+  },
+  {
+    "id": "2497647",
+    "title": "Frýdlant",
+    "subtitle": "Smědá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.9203561, 15.0773586",
+    "category": "normální stav"
+  },
+  {
+    "id": "2586296",
+    "title": "Vlaské",
+    "subtitle": "Morava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0883912, 16.9012723",
+    "category": "normální stav"
+  },
+  {
+    "id": "307161",
+    "title": "Mláka",
+    "subtitle": "Nová řeka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.066991, 14.8724211",
+    "category": "normální stav"
+  },
+  {
+    "id": "28611217",
+    "title": "Želízy",
+    "subtitle": "Liběchovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4220042, 14.4605861",
+    "category": "sucho"
+  },
+  {
+    "id": "37704777",
+    "title": "Dolní Libchava",
+    "subtitle": "Šporka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6892712, 14.511949",
+    "category": "normální stav"
+  },
+  {
+    "id": "38578163",
+    "title": "Jesenice - Kocanda",
+    "subtitle": "Botič",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9698385, 14.5412872",
+    "category": "normální stav"
+  },
+  {
+    "id": "35910988",
+    "title": "Ústí nad Labem_Klisky",
+    "subtitle": "Klíšský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.6784366, 14.0150075",
+    "category": "sucho"
+  },
+  {
+    "id": "20214815",
+    "title": "Janov - Harrachov",
+    "subtitle": "Mumlava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.7642354, 15.3967685",
+    "category": "sucho"
+  },
+  {
+    "id": "41433399",
+    "title": "Palkovice",
+    "subtitle": "Olešná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6399863, 18.3196608",
+    "category": "sucho"
+  },
+  {
+    "id": "38908612",
+    "title": "Opatovice nad nádrží",
+    "subtitle": "Malá Haná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3211255, 16.9023326",
+    "category": "sucho"
+  },
+  {
+    "id": "39958256",
+    "title": "Slezská Harta pod nádrží",
+    "subtitle": "Moravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8874025, 17.5844084",
+    "category": "normální stav"
+  },
+  {
+    "id": "39957818",
+    "title": "Budišov nad Budišovkou",
+    "subtitle": "Budišovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.793318, 17.6309901",
+    "category": "sucho"
+  },
+  {
+    "id": "306973",
+    "title": "Padrty",
+    "subtitle": "Chrudimka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8438396, 15.6872458",
+    "category": "normální stav"
+  },
+  {
+    "id": "39962438",
+    "title": "Šternberk",
+    "subtitle": "Sitka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7305682, 17.2955886",
+    "category": "normální stav"
+  },
+  {
+    "id": "41433591",
+    "title": "Rýmařov",
+    "subtitle": "Podolský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:40",
+    "coords": "49.937745, 17.2675609",
+    "category": "sucho"
+  },
+  {
+    "id": "38357920",
+    "title": "Dětmarovice",
+    "subtitle": "Olše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8834277, 18.4867528",
+    "category": "normální stav"
+  },
+  {
+    "id": "307236",
+    "title": "Rodvínov",
+    "subtitle": "Nežárka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.171626, 15.0562898",
+    "category": "sucho"
+  },
+  {
+    "id": "307083",
+    "title": "Lichkov",
+    "subtitle": "Tichá Orlice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0975729, 16.6728198",
+    "category": "normální stav"
+  },
+  {
+    "id": "307287",
+    "title": "Praha - Na Františku",
+    "subtitle": "Vltava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:40",
+    "coords": "50.0932493, 14.423356",
+    "category": "normální stav"
+  },
+  {
+    "id": "20084974",
+    "title": "Chrastava",
+    "subtitle": "Jeřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8172427, 14.9646987",
+    "category": "normální stav"
+  },
+  {
+    "id": "34010479",
+    "title": "Žirovnice",
+    "subtitle": "Žirovnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2498606, 15.1813868",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426070",
+    "title": "Březina",
+    "subtitle": "Žehrovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.5490339, 15.0426813",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426075",
+    "title": "Kojčice",
+    "subtitle": "Želivka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4822312, 15.2498751",
+    "category": "sucho"
+  },
+  {
+    "id": "29236133",
+    "title": "Solanec",
+    "subtitle": "Hutiský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4230595, 18.2201106",
+    "category": "sucho"
+  },
+  {
+    "id": "307325",
+    "title": "Jablunkov",
+    "subtitle": "Olše",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5767575, 18.7685466",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426397",
+    "title": "Blažejovice",
+    "subtitle": "Blažejovický potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6139063, 15.205956",
+    "category": "sucho"
+  },
+  {
+    "id": "35263642",
+    "title": "Nový Dvůr ",
+    "subtitle": "Spůlka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0872071, 13.6567231",
+    "category": "normální stav"
+  },
+  {
+    "id": "31074555",
+    "title": "Praha - Vysočany",
+    "subtitle": "Rokytka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1080853, 14.4988561",
+    "category": "sucho"
+  },
+  {
+    "id": "36008523",
+    "title": "VD Lučina",
+    "subtitle": "Mže",
+    "status": "normální stav",
+    "time": "25.08.2025 23:00",
+    "coords": "49.8057879, 12.5835448",
+    "category": "normální stav"
+  },
+  {
+    "id": "36008850",
+    "title": "VD Nýrsko",
+    "subtitle": "Úhlava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2639197, 13.1439497",
+    "category": "normální stav"
+  },
+  {
+    "id": "29236544",
+    "title": "Hraničky",
+    "subtitle": "Třebůvka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7179121, 16.7963175",
+    "category": "normální stav"
+  },
+  {
+    "id": "34215428",
+    "title": "Klášterec nad Orlicí",
+    "subtitle": "Divoká Orlice",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1168558, 16.5529625",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "34415750",
+    "title": "Častolovice",
+    "subtitle": "Bělá",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1287501, 16.1850498",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426453",
+    "title": "Praha - Nusle",
+    "subtitle": "Botič",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0665444, 14.4297835",
+    "category": "sucho"
+  },
+  {
+    "id": "34165886",
+    "title": "Slatina nad Úpou",
+    "subtitle": "Úpa",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.4486733, 16.0517193",
+    "category": "normální stav"
+  },
+  {
+    "id": "34426083",
+    "title": "Želiv - Trnávka",
+    "subtitle": "Trnava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5273908, 15.2158881",
+    "category": "normální stav"
+  },
+  {
+    "id": "34718633",
+    "title": "Postoloprty",
+    "subtitle": "Chomutovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3648234, 13.7038413",
+    "category": "sucho"
+  },
+  {
+    "id": "37792624",
+    "title": "Kuří",
+    "subtitle": "Pitkovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9873701, 14.6202624",
+    "category": "normální stav"
+  },
+  {
+    "id": "45603809",
+    "title": "Radim",
+    "subtitle": "Krasovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0770266, 17.5987377",
+    "category": "normální stav"
+  },
+  {
+    "id": "41064750",
+    "title": "Místek",
+    "subtitle": "Hodoňovický náhon",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6707003, 18.3379555",
+    "category": "normální stav"
+  },
+  {
+    "id": "41433896",
+    "title": "Hradiště",
+    "subtitle": "Stonávka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7301655, 18.4981902",
+    "category": "normální stav"
+  },
+  {
+    "id": "2505254",
+    "title": "Janov",
+    "subtitle": "Moravská Dyje",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9930423, 15.4348051",
+    "category": "sucho"
+  },
+  {
+    "id": "307196",
+    "title": "Vsetín",
+    "subtitle": "Vsetínská Bečva",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3424905, 17.9857521",
+    "category": "sucho"
+  },
+  {
+    "id": "38907900",
+    "title": "Praha - Kyjský rybník",
+    "subtitle": "Rokytka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0967524, 14.5409662",
+    "category": "sucho"
+  },
+  {
+    "id": "39185505",
+    "title": "Praha-Libeň",
+    "subtitle": "Rokytka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1070371, 14.4703113",
+    "category": "sucho"
+  },
+  {
+    "id": "39966605",
+    "title": "Bystřička nad nádrží",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4182221, 18.0447133",
+    "category": "normální stav"
+  },
+  {
+    "id": "41060250",
+    "title": "Karlovy Vary - Dvory",
+    "subtitle": "Chodovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2271247, 12.8249641",
+    "category": "sucho"
+  },
+  {
+    "id": "307149",
+    "title": "VD Jevišovice",
+    "subtitle": "Jevišovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.9917035, 15.9844398",
+    "category": "normální stav"
+  },
+  {
+    "id": "306983",
+    "title": "Vír pod vyrovnávací nádrží",
+    "subtitle": "Svratka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5428842, 16.337754",
+    "category": "sucho"
+  },
+  {
+    "id": "307107",
+    "title": "Věřňovice",
+    "subtitle": "Olše",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9309325, 18.4189486",
+    "category": "sucho"
+  },
+  {
+    "id": "307058",
+    "title": "Katovice",
+    "subtitle": "Otava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.270483, 13.8303473",
+    "category": "sucho"
+  },
+  {
+    "id": "307237",
+    "title": "Lásenice",
+    "subtitle": "Nežárka",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0740579, 14.9651521",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "20263035",
+    "title": "Hoštejn",
+    "subtitle": "Březná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8776173, 16.7617594",
+    "category": "normální stav"
+  },
+  {
+    "id": "307217",
+    "title": "Pašinovice",
+    "subtitle": "Stropnice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "48.877828, 14.5258807",
+    "category": "sucho"
+  },
+  {
+    "id": "307322",
+    "title": "Frýdek-Místek tok",
+    "subtitle": "Ostravice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6862093, 18.3377312",
+    "category": "normální stav"
+  },
+  {
+    "id": "307256",
+    "title": "Milotice",
+    "subtitle": "Jankovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5001153, 15.2793521",
+    "category": "sucho"
+  },
+  {
+    "id": "307057",
+    "title": "Stodůlky",
+    "subtitle": "Křemelná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1176039, 13.4276003",
+    "category": "normální stav"
+  },
+  {
+    "id": "41063442",
+    "title": "VD Jesenice",
+    "subtitle": "Odrava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0899935, 12.4749072",
+    "category": "normální stav"
+  },
+  {
+    "id": "41064061",
+    "title": "Libavské Údolí",
+    "subtitle": "Velká Libava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1292063, 12.5562361",
+    "category": "sucho"
+  },
+  {
+    "id": "41065312",
+    "title": "Horní Bečva",
+    "subtitle": "Rožnovská Bečva",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.422423, 18.3115304",
+    "category": "sucho"
+  },
+  {
+    "id": "87372",
+    "title": "Libočany",
+    "subtitle": "Liboc",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3324229, 13.513699",
+    "category": "normální stav"
+  },
+  {
+    "id": "385438",
+    "title": "Brumov",
+    "subtitle": "Brumovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0928591, 18.0218328",
+    "category": "normální stav"
+  },
+  {
+    "id": "39971859",
+    "title": "Jakartovice",
+    "subtitle": "Hvozdnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9168253, 17.6905746",
+    "category": "normální stav"
+  },
+  {
+    "id": "41065183",
+    "title": "Holice",
+    "subtitle": "Hamerský náhon",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5783255, 17.2978714",
+    "category": "normální stav"
+  },
+  {
+    "id": "39966866",
+    "title": "Valšov",
+    "subtitle": "Kočovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9249114, 17.4508424",
+    "category": "sucho"
+  },
+  {
+    "id": "41433130",
+    "title": "Lipová-Lázně",
+    "subtitle": "Staříč",
+    "status": "Data profilu jsou ovlivněna",
+    "time": "01.04.2025 10:50",
+    "coords": "50.2280934, 17.1436555",
+    "category": "Data profilu jsou ovlivněna"
+  },
+  {
+    "id": "44796828",
+    "title": "Rychvald",
+    "subtitle": "Stružka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8641703, 18.3566558",
+    "category": "normální stav"
+  },
+  {
+    "id": "45599398",
+    "title": "Dlouhá Loučka",
+    "subtitle": "Oslava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8148355, 17.1726136",
+    "category": "normální stav"
+  },
+  {
+    "id": "45599811",
+    "title": "Morávka",
+    "subtitle": "Skalka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5619688, 18.552476",
+    "category": "normální stav"
+  },
+  {
+    "id": "45599832",
+    "title": "Morávka",
+    "subtitle": "Morávka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5606715, 18.5501805",
+    "category": "normální stav"
+  },
+  {
+    "id": "2497648",
+    "title": "Předměřice",
+    "subtitle": "Jizera",
+    "status": "sucho",
+    "time": "25.08.2025 23:20",
+    "coords": "50.2486875, 14.7753034",
+    "category": "sucho"
+  },
+  {
+    "id": "20628314",
+    "title": "Průhonice",
+    "subtitle": "Dobřejovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9910038, 14.5608031",
+    "category": "normální stav"
+  },
+  {
+    "id": "20757820",
+    "title": "Desná- Jezdecká",
+    "subtitle": "Černá Desná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.8076171, 15.2929803",
+    "category": "normální stav"
+  },
+  {
+    "id": "307128",
+    "title": "Blatná",
+    "subtitle": "Lomnice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.4250478, 13.8803098",
+    "category": "normální stav"
+  },
+  {
+    "id": "2442710",
+    "title": "Ehrendorf",
+    "subtitle": "Lužnice",
+    "status": "normální stav",
+    "time": "25.08.2025 22:30",
+    "coords": "48.7570355, 14.9572251",
+    "category": "normální stav"
+  },
+  {
+    "id": "2537533",
+    "title": "Hoheneich",
+    "subtitle": "Skřemelice (Klášterecký potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 22:25",
+    "coords": "48.7701558, 15.005746",
+    "category": "normální stav"
+  },
+  {
+    "id": "2795725",
+    "title": "Tržek",
+    "subtitle": "Desná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.8825038, 16.2595894",
+    "category": "normální stav"
+  },
+  {
+    "id": "514734",
+    "title": "Luhačovice nad nádrží",
+    "subtitle": "Luhačovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1268632, 17.7948437",
+    "category": "normální stav"
+  },
+  {
+    "id": "514753",
+    "title": "Hradec nad Svitavou",
+    "subtitle": "Svitava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.7244061, 16.4824793",
+    "category": "normální stav"
+  },
+  {
+    "id": "390302",
+    "title": "Velehrad",
+    "subtitle": "Salaška",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1027657, 17.3934646",
+    "category": "normální stav"
+  },
+  {
+    "id": "1959304",
+    "title": "Šumperk náhon",
+    "subtitle": "",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9630025, 16.9961709",
+    "category": "normální stav"
+  },
+  {
+    "id": "523538",
+    "title": "Skalní Mlýn",
+    "subtitle": "Punkva",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3695416, 16.7197932",
+    "category": "normální stav"
+  },
+  {
+    "id": "517558",
+    "title": "Ochoz",
+    "subtitle": "Říčka (Zlatý potok)",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2421126, 16.7330411",
+    "category": "normální stav"
+  },
+  {
+    "id": "514704",
+    "title": "Třebětice",
+    "subtitle": "Rusava",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3251687, 17.51164",
+    "category": "normální stav"
+  },
+  {
+    "id": "514789",
+    "title": "Koryčany nad nádrží",
+    "subtitle": "Kyjovka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1074136, 17.2222021",
+    "category": "sucho"
+  },
+  {
+    "id": "514711",
+    "title": "Slušovice",
+    "subtitle": "Všeminka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.2472776, 17.8035932",
+    "category": "sucho"
+  },
+  {
+    "id": "3302145",
+    "title": "Stříbrné Hory",
+    "subtitle": "Borovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5989233, 15.7021292",
+    "category": "sucho"
+  },
+  {
+    "id": "2715981",
+    "title": "Hlupín",
+    "subtitle": "Březový potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.3281893, 13.7719094",
+    "category": "normální stav"
+  },
+  {
+    "id": "2772455",
+    "title": "Úraz",
+    "subtitle": "Chotovinský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:20",
+    "coords": "49.5150077, 14.702966",
+    "category": "normální stav"
+  },
+  {
+    "id": "514726",
+    "title": "Bojkovice nad nádrží",
+    "subtitle": "Kolelač",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0545318, 17.8564503",
+    "category": "normální stav"
+  },
+  {
+    "id": "2809273",
+    "title": "Vilémov",
+    "subtitle": "Liboc",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.3006483, 13.3083486",
+    "category": "normální stav"
+  },
+  {
+    "id": "797135",
+    "title": "Domanín",
+    "subtitle": "Bystřice",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5428555, 16.2051542",
+    "category": "normální stav"
+  },
+  {
+    "id": "390298",
+    "title": "Rožná",
+    "subtitle": "Nedvědička",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4756675, 16.2437005",
+    "category": "normální stav"
+  },
+  {
+    "id": "551724",
+    "title": "Petrov",
+    "subtitle": "Radějovka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "48.8805078, 17.2749239",
+    "category": "normální stav"
+  },
+  {
+    "id": "2905396",
+    "title": "Hamry-V lipách",
+    "subtitle": "Úhlava",
+    "status": "sucho",
+    "time": "25.08.2025 21:00",
+    "coords": "49.2257713, 13.162975",
+    "category": "sucho"
+  },
+  {
+    "id": "967",
+    "title": "Alžbětín",
+    "subtitle": "Řezná",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1252653, 13.2140322",
+    "category": "sucho"
+  },
+  {
+    "id": "773121",
+    "title": "Rotava",
+    "subtitle": "Skřiváň",
+    "status": "sucho",
+    "time": "25.08.2025 21:10",
+    "coords": "50.3015512, 12.5859513",
+    "category": "sucho"
+  },
+  {
+    "id": "87365",
+    "title": "Hrozňatov",
+    "subtitle": "Mohelnský potok",
+    "status": "sucho",
+    "time": "25.08.2025 17:30",
+    "coords": "50.0255053, 12.3897538",
+    "category": "sucho"
+  },
+  {
+    "id": "87366",
+    "title": "Leopoldovy Hamry",
+    "subtitle": "Libocký potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.2269687, 12.4974146",
+    "category": "sucho"
+  },
+  {
+    "id": "514796",
+    "title": "Osvětimany",
+    "subtitle": "Hruškovice",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0592231, 17.2467979",
+    "category": "sucho"
+  },
+  {
+    "id": "470598",
+    "title": "Landštejn nad nádrží",
+    "subtitle": "Pstruhovec",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.0339799, 15.2506348",
+    "category": "sucho"
+  },
+  {
+    "id": "523518",
+    "title": "Holštejn",
+    "subtitle": "Bílá voda",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4032862, 16.7794088",
+    "category": "normální stav"
+  },
+  {
+    "id": "514745",
+    "title": "Lomnička",
+    "subtitle": "Besének",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3678957, 16.4283888",
+    "category": "sucho"
+  },
+  {
+    "id": "551766",
+    "title": "Kadov",
+    "subtitle": "Fryšávka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.6343495, 16.0784965",
+    "category": "normální stav"
+  },
+  {
+    "id": "514769",
+    "title": "Želešice",
+    "subtitle": "Bobrava",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1142499, 16.5823811",
+    "category": "sucho"
+  },
+  {
+    "id": "514757",
+    "title": "Prostřední Poříčí",
+    "subtitle": "Křetínka",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.5703953, 16.4980395",
+    "category": "sucho"
+  },
+  {
+    "id": "514773",
+    "title": "Boršov",
+    "subtitle": "Jedlovský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4046154, 15.4437214",
+    "category": "sucho"
+  },
+  {
+    "id": "514777",
+    "title": "Hubenov nad nádrží",
+    "subtitle": "Maršovský potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4046176, 15.472413",
+    "category": "normální stav"
+  },
+  {
+    "id": "390306",
+    "title": "Řetechov-Pradlisko",
+    "subtitle": "Ludkovický potok",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.1444626, 17.7338378",
+    "category": "normální stav"
+  },
+  {
+    "id": "487178",
+    "title": "Josefov",
+    "subtitle": "Křtinský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.3063363, 16.6795687",
+    "category": "sucho"
+  },
+  {
+    "id": "385518",
+    "title": "Soběsuky",
+    "subtitle": "Hloučela",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "49.4645895, 16.994222",
+    "category": "sucho"
+  },
+  {
+    "id": "307334",
+    "title": "Šumperk tok",
+    "subtitle": "Desná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "49.9636659, 16.997086",
+    "category": "normální stav"
+  },
+  {
+    "id": "2809272",
+    "title": "Kryry",
+    "subtitle": "Blšanka",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1740714, 13.4285318",
+    "category": "normální stav"
+  },
+  {
+    "id": "4180199",
+    "title": "Hartoušov",
+    "subtitle": "Plesná",
+    "status": "normální stav",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1323962, 12.4638946",
+    "category": "normální stav"
+  },
+  {
+    "id": "4180198",
+    "title": "Vítkov",
+    "subtitle": "Lobezský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.1594274, 12.6859324",
+    "category": "sucho"
+  },
+  {
+    "id": "1913038",
+    "title": "Mnichov",
+    "subtitle": "Pramenský potok",
+    "status": "sucho",
+    "time": "25.08.2025 23:30",
+    "coords": "50.0492102, 12.7951081",
+    "category": "sucho"
+  }
+]
